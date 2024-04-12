@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: rgb(29, 29, 29);
+}
+#canvas {
+    box-sizing: border-box;
+    width: 100%;
+    height: 100vh;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
