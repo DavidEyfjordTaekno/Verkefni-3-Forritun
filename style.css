@@ -4,6 +4,7 @@
 }
 body {
     background-color: rgb(29, 29, 29);
+    overflow: hidden;
 }
 #canvas {
     box-sizing: border-box;
